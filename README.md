@@ -2,9 +2,9 @@
 
 
 # Thành viên nhóm 3:
-- Nguyễn Đức Hảo - 18110114
+- Nguyễn Đức Hảo - 18110104
 - Đinh Tuấn An - 18110072
-- Nguyễn Thanh Hoàng - 18110
+- Nguyễn Thanh Hoàng - 18110112
 - Lê Đức Thắng - 18110201
 
 # Repository gồm có:
